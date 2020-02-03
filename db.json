@@ -1,7 +1,9 @@
 {
- name: "foo",
- email: "foo@example.com",
- company: "foo-company",
- phone: "012345",
- message: "Hello World!"
+	"data": {
+		"name": "foo",
+		"email": "foo@example.com",
+		"company": "foo-company",
+		"phone": "012345",
+		"message": "Hello World!"
+	}
 }
